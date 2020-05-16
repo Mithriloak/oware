@@ -65,4 +65,5 @@ let gameState board =
 [<EntryPoint>]
 let main _ =
     printfn "Hello from F#!"
+    printfn "Planning to merge with Sihle97"
     0 // return an integer exit code
